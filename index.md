@@ -8,7 +8,7 @@ Bricoleur du web depuis le milieu des années 90, après une carrière dans la f
 
 - Premier site en 1996
 - Editeur de sites d'affiliation depuis 2008
-- Prestataires
+- Conseil en marketing digital comme activité principale depuis 2007
 
 ### Côté finance : 
 
@@ -19,11 +19,11 @@ Bricoleur du web depuis le milieu des années 90, après une carrière dans la f
 - Trésorier d'entreprise
 - Origination obligataire
 
-Je me consacre désormais à :
+### Je me consacre désormais à :
 
-- mes clients
-- mes sites
-- la gestion de patrimoine et la formation en finance.
+- mes clients,
+- la formation en finance,
+- la gestion de sites pour compte propre.
 
 ## Ce que je propose
 
