@@ -37,6 +37,11 @@ Je me consacre à 100 % :
 - Développements ad hoc (connexions API - CMS, publication automatiques, widgets, scans de résultats Google...)
 - Mise en relation dans mon carnet d'adresses pour les compétences que je ne propose pas (Google Ads, rédaction généraliste premium, réseaux sociaux, etc.)
 
+### Est-ce uniquement pour les clients financiers ?
+
+* Oui pour la rédaction premium - il faut connaître les idiomes, le jargon, etc. Le lecteur sent quand il y a uen fausse note.
+* Non pour la rédaction généraliste.
+
 ## Ma philosophie
 
 Un travail axé sur l'opérationnel, l'efficacité, le ROI de la prestation.
