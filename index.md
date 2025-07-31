@@ -51,7 +51,7 @@ Mais aussi : non conformiste, hors des sentiers battus, imaginatif, créatif.
 
 **Je ne suis pas une agence web**. Mais 95% de mes clients ont été, par le passé, malmenés par une agence.
 
-Approche "no bullshit". Quand cela ne fonctionne pas, on en parle.
+Approche "no bullshit". Quand cela ne fonctionne pas, on en parle, on corrige, on arrête (du vrai *agile*).
 
 ## Combien ça coûte
 
@@ -66,7 +66,8 @@ N'étant pas une agence, le volume de clients n'est pas et ne sera jamais ma pri
 
 06 66 98 75 85 - nicolas@alambic.org
 
-## Références clients : 
+## Références clients
+
 Yomoni - LFDE - Plenit Finances - Fiducial Banque - SCPI Online - Linxea - Nalo - CNCEF - Pandat - Acasi - Ancre - Wesave...
 
 ## Un peu de lecture pour aller plus loin (ma philosophie de travail, mes vues du moment sur le marketing web et l'avenir de la recherche)
