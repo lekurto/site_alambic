@@ -2,7 +2,7 @@
 
 ## Qui je suis
 
-Bricoleur du web depuis le milieu des années 90, après une carrière dans la finance je me dédie désormais à temps plein dans le web, le marketing web et le développement.
+Un financier né dans le web, qui partage son expérience avec ses clients pour les aider à atteindre leurs objectifs marketing web.
 
 ### Côté web : 
 
@@ -33,7 +33,7 @@ Bricoleur du web depuis le milieu des années 90, après une carrière dans la f
 - Lead generation
 - Développements ad hoc (connexions API - CMS, publication automatiques, widgets, scans de résultats Google...)
 - Optimisation de présence sur les LLM
-- Mise en relation dans mon carnet d'adresses pour les compétences que je ne propose pas (Google Ads, rédaction généraliste premium, etc.)
+- Mise en relation dans mon carnet d'adresses pour les compétences que je ne propose pas (Google Ads, rédaction généraliste premium, réseaux sociaux, etc.)
 
 La philosophie : un travail opérationnel, efficace, orienté ROI. 
 Une stratégie, des actions, des résultats.
