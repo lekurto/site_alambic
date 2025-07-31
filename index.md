@@ -4,20 +4,18 @@
 
 Un financier né dans le web, qui partage son expérience avec ses clients pour les aider à atteindre leurs objectifs marketing web.
 
-### Côté web : 
 
-- Premier site en 1996 (geocities <3 )
-- Editeur de sites d'affiliation depuis 2008
-- Conseil en marketing digital comme activité principale depuis 2007
+### Côté web :
+- Premier site publié en 1996 (Geocities 💀)
+- Éditeur de sites à forte monétisation depuis 2008
+- Consultant en marketing digital et SEO depuis 2007
+- Spécialisation SEO éditorial + automatisation Python
 
-### Côté finance : 
-
-- 15 ans d'expérience diversifiée
-- Asset management
-- Trader
-- Analyste financier
-- Trésorier d'entreprise
-- Origination obligataire
+### Côté finance :
+- 15 ans de finance de marché et de trésorerie
+- Ex-trader, analyste financier, trésorier, originateur obligataire
+- Diplômé Dauphine – DESS 203
+- Passion pour la transmission et la pédagogie financière
 
 ### Depuis 2007, j'ai quitté le monde corporate pour devenir indépendant
 
@@ -36,6 +34,10 @@ Je me consacre à 100 % à :
 - Appui à leur stratégie de marketing digital
 - Développements ad hoc (connexions API - CMS, publication automatiques, widgets, scans de résultats Google...)
 - Mise en relation avec mon carnet d'adresses pour les compétences que je ne propose pas (Google Ads, rédaction généraliste premium, réseaux sociaux, etc.)
+
+## Pour qui ?
+
+- Grands comptes, PME, TPE.
 
 ### Est-ce uniquement pour les clients financiers ?
 
@@ -60,7 +62,7 @@ Selon projet :
 - ou au forfait
 - et/ou par indexation à la performance.
 
-N'étant pas une agence, le volume de clients n'est pas et ne sera jamais ma priorité. J'ai maxi 3-4 clients en parallèle.
+N'étant pas une agence, le volume de clients n'est pas et ne sera jamais ma priorité. J'ai maxi 3-4 clients en parallèle. Pour cette raison, il m'est impossible de travailler avec un volume inférieur à 2 jours par mois.
 
 ## Pour me contacter
 
