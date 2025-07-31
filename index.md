@@ -35,11 +35,16 @@ Je me consacre désormais à :
 - Optimisation de présence sur les LLM
 - Mise en relation dans mon carnet d'adresses pour les compétences que je ne propose pas (Google Ads, rédaction généraliste premium, etc.)
 
+La philosophie : un travail opérationnel, efficace, orienté ROI. 
+Une stratégie, des actions, des résultats, plutôt que des réunions.
+
 ## Combien ça coûte
 
 TJM 700€ par jour.
 
-## Liens utiles
+## Pour me contacter
 
-Références clients : 
-Yomoni - LFDE - Plenit Finances - Fiducial - Linxea - Nalo - CNCEF - Pandat - Acasi - Ancre - Wesave...
+06 66 98 75 85 - nicolas@alambic.org
+
+## Références clients : 
+Yomoni - LFDE - Plenit Finances - Fiducial Banque - SCPI Online - Linxea - Nalo - CNCEF - Pandat - Acasi - Ancre - Wesave...
