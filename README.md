@@ -49,7 +49,7 @@ Grands comptes, PME, TPE...
 
 Un travail axé sur l'opérationnel, l'efficacité, le ROI de la prestation.
 
-Valeurs : honnête, transparent, pédagogique, bienveillant, gentil.
+Valeurs : honnête, transparent, pédagogique, pragmatique, sincère.
 Mais aussi : non conformiste, hors des sentiers battus, imaginatif, créatif.
 
 **Je ne suis pas une agence web**. Mais 95% de mes clients ont été, par le passé, malmenés par une agence.
