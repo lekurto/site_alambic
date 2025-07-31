@@ -25,19 +25,18 @@ Un financier né dans le web, qui partage son expérience avec ses clients pour 
 - la formation en finance,
 - la gestion de sites pour compte propre.
 
-## Ce que je propose
+## Ce que je propose à mes clients entreprises
 
-- Stratégies de SEO et marketing digital pour entreprises
+- Stratégies de SEO / référencement de leur site
 - Contenus optimisés SEO pour le secteur financier
-- Référencement de sites
 - Lead generation
+- Appui à leur stratégie de marketing digital
 - Développements ad hoc (connexions API - CMS, publication automatiques, widgets, scans de résultats Google...)
 - Optimisation de présence sur les LLM
 - Mise en relation dans mon carnet d'adresses pour les compétences que je ne propose pas (Google Ads, rédaction généraliste premium, réseaux sociaux, etc.)
 
-La philosophie : un travail opérationnel, efficace, orienté ROI. 
-Une stratégie, des actions, des résultats.
-Je ne suis pas une agence.
+Ma philosophie : un travail axé sur l'opérationnel, l'efficacité, le ROI de la prestation.
+Je ne suis pas : une agence.
 
 ## Combien ça coûte
 
@@ -49,3 +48,8 @@ Selon projet, mais généralement TJM de 700€ HT. Possibilité d'indexation au
 
 ## Références clients : 
 Yomoni - LFDE - Plenit Finances - Fiducial Banque - SCPI Online - Linxea - Nalo - CNCEF - Pandat - Acasi - Ancre - Wesave...
+
+## Un peu de lecture pour aller plus loin
+
+- Indexation de sites sur les LLM (apparaître sur ChatGPT)
+- Transformation des usages : devez-vous encore chercher la position 1 ?
