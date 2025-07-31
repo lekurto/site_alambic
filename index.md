@@ -70,6 +70,8 @@ N'étant pas une agence, le volume de clients n'est pas et ne sera jamais ma pri
 
 Yomoni - LFDE - Plenit Finances - Fiducial Banque - SCPI Online - Linxea - Nalo - CNCEF - Pandat - Acasi - Ancre - Wesave...
 
+*contacts pour référence : sur demande*
+
 ## Un peu de lecture pour aller plus loin (ma philosophie de travail, mes vues du moment sur le marketing web et l'avenir de la recherche)
 
 - Indexation de sites sur les LLM (apparaître sur ChatGPT)
