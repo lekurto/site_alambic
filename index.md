@@ -1,9 +1,10 @@
 # Alambic, le site de Nicolas Pérot, le référenceur des sites financiers
 
+Depuis 2007, j’aide banques, courtiers, assureurs et startups financières à capter du trafic qualifié grâce à une stratégie de contenu performante, et un SEO technique adapté aux usages modernes.
+
 ## Nicolas Pérot, c'est :
 
 Un financier né dans le web, qui partage son expérience avec ses clients pour les aider à atteindre leurs objectifs marketing web.
-
 
 ### Côté web :
 - Premier site publié en 1996 (Geocities 💀)
