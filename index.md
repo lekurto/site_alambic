@@ -36,7 +36,10 @@ Un financier né dans le web, qui partage son expérience avec ses clients pour 
 - Mise en relation dans mon carnet d'adresses pour les compétences que je ne propose pas (Google Ads, rédaction généraliste premium, réseaux sociaux, etc.)
 
 Ma philosophie : un travail axé sur l'opérationnel, l'efficacité, le ROI de la prestation.
-Je ne suis pas : une agence.
+
+Approche "no bullshit", honnête, transparente. Ce qui n'exclut pas la pédagogie, la bienveillance, la générosité :)
+
+Je ne suis pas une agence. Mais je m'adresse volontiers aux entreprises qui ont été, par le passé, malmenées par une agence.
 
 ## Combien ça coûte
 
