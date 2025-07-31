@@ -1,4 +1,4 @@
-# Alambic, Le site de Nicolas Pérot
+# Alambic, le site de Nicolas Pérot, le référenceur des sites financiers
 
 ## Qui je suis
 
