@@ -37,9 +37,9 @@ Je me consacre à 100 % à :
 
 ## Pour qui ?
 
-- Grands comptes, PME, TPE.
+Grands comptes, PME, TPE...
 
-### Est-ce uniquement pour les clients financiers ?
+**Est-ce uniquement pour les clients financiers ?**
 
 * Oui pour la rédaction premium - il faut connaître les idiomes, le jargon, etc. Le lecteur sent quand il y a une fausse note.
 * Non pour la rédaction généraliste orientée SEO.
