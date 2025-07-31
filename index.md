@@ -2,11 +2,44 @@
 
 ## Qui je suis
 
+Bricoleur du web depuis le milieu des années 90, après une carrière dans la finance je me dédie désormais à temps plein dans le web, le marketing web et le développement.
+
+### Côté web : 
+
+- Premier site en 1996
+- Editeur de sites d'affiliation depuis 2008
+- Prestataires
+
+### Côté finance : 
+
+- 15 ans d'expérience
+- Asset management
+- Trader
+- Analyste financier
+- Trésorier d'entreprise
+- Origination obligataire
+
+Je me consacre désormais à :
+
+- mes clients
+- mes sites
+- la gestion de patrimoine et la formation en finance.
+
 ## Ce que je propose
 
-Ce site utilise le rendu natif de GitHub Pages avec Jekyll, sans CSS ajouté.
+- Stratégies de SEO et marketing digital pour entreprises
+- Contenus optimisés SEO pour le secteur financier
+- Référencement de sites
+- Lead generation
+- Développements ad hoc (Python, API, publication automatiques, CMS, scans de résultats Google...)
+- Optimisation de présence sur les LLM
+- Mise en relation dans mon carnet d'adresses pour les compétences que je ne propose pas (Google Ads, rédaction généraliste premium, etc.)
+
+## Combien ça coûte
+
+TJM 700€ par jour.
 
 ## Liens utiles
 
-- [GitHub](https://github.com)
-- [Contact](mailto:test@example.com)
+Références clients : 
+Yomoni - LFDE - Plenit Finances - Fiducial - Linxea - Nalo - CNCEF - Pandat - Acasi - Ancre - Wesave...
