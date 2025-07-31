@@ -39,13 +39,13 @@ Je me consacre à 100 % :
 
 ## Ma philosophie
 
-Ma philosophie : un travail axé sur l'opérationnel, l'efficacité, le ROI de la prestation.
+Un travail axé sur l'opérationnel, l'efficacité, le ROI de la prestation.
 
 Valeurs : honnête, transparent, hors des sentiers battus quand il le faut. Approche "no bullshit". Quand cela ne fonctionne pas, on en parle.
 
 Pédagogique, bienveillant, gentil.
 
-Je ne suis pas : une agence. Mais 95% de mes clients ont été, par le passé, malmenés par une agence.
+**Je ne suis pas une agence web**. Mais 95% de mes clients ont été, par le passé, malmenés par une agence.
 
 ## Combien ça coûte
 
