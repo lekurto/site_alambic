@@ -40,7 +40,10 @@ Je ne suis pas : une agence.
 
 ## Combien ça coûte
 
-Selon projet, mais généralement TJM de 700€ HT. Possibilité d'indexation au résultat.
+Selon projet : 
+- au TJM (700€ HT)
+- ou au forfait
+- et/ou par indexation à la performance.
 
 ## Pour me contacter
 
@@ -49,7 +52,7 @@ Selon projet, mais généralement TJM de 700€ HT. Possibilité d'indexation au
 ## Références clients : 
 Yomoni - LFDE - Plenit Finances - Fiducial Banque - SCPI Online - Linxea - Nalo - CNCEF - Pandat - Acasi - Ancre - Wesave...
 
-## Un peu de lecture pour aller plus loin
+## Un peu de lecture pour aller plus loin (ma philosophie de travail, mes vues du moment sur le marketing web et l'avenir de la recherche)
 
 - Indexation de sites sur les LLM (apparaître sur ChatGPT)
 - Transformation des usages : devez-vous encore chercher la position 1 ?
