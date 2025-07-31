@@ -21,9 +21,9 @@ Un financier né dans le web, qui partage son expérience avec ses clients pour 
 
 ### Depuis 2007, j'ai quitté le monde corporate pour devenir indépendant
 
-Je me consacre à 100 % :
+Je me consacre à 100 % à :
 
-- mes clients,
+- mes clients webmarketing,
 - la formation en finance,
 - la gestion de mon réseau de sites.
 
@@ -35,22 +35,23 @@ Je me consacre à 100 % :
 - Lead generation
 - Appui à leur stratégie de marketing digital
 - Développements ad hoc (connexions API - CMS, publication automatiques, widgets, scans de résultats Google...)
-- Mise en relation dans mon carnet d'adresses pour les compétences que je ne propose pas (Google Ads, rédaction généraliste premium, réseaux sociaux, etc.)
+- Mise en relation avec mon carnet d'adresses pour les compétences que je ne propose pas (Google Ads, rédaction généraliste premium, réseaux sociaux, etc.)
 
 ### Est-ce uniquement pour les clients financiers ?
 
-* Oui pour la rédaction premium - il faut connaître les idiomes, le jargon, etc. Le lecteur sent quand il y a uen fausse note.
-* Non pour la rédaction généraliste.
+* Oui pour la rédaction premium - il faut connaître les idiomes, le jargon, etc. Le lecteur sent quand il y a une fausse note.
+* Non pour la rédaction généraliste orientée SEO.
 
 ## Ma philosophie
 
 Un travail axé sur l'opérationnel, l'efficacité, le ROI de la prestation.
 
-Valeurs : honnête, transparent, hors des sentiers battus quand il le faut. Approche "no bullshit". Quand cela ne fonctionne pas, on en parle.
-
-Pédagogique, bienveillant, gentil.
+Valeurs : honnête, transparent, pédagogique, bienveillant, gentil.
+Mais aussi : non conformiste, hors des sentiers battus, imaginatif, créatif.
 
 **Je ne suis pas une agence web**. Mais 95% de mes clients ont été, par le passé, malmenés par une agence.
+
+Approche "no bullshit". Quand cela ne fonctionne pas, on en parle.
 
 ## Combien ça coûte
 
@@ -58,6 +59,8 @@ Selon projet :
 - au TJM (700€ HT)
 - ou au forfait
 - et/ou par indexation à la performance.
+
+N'étant pas une agence, le volume de clients n'est pas et ne sera jamais ma priorité. J'ai maxi 3-4 clients en parallèle.
 
 ## Pour me contacter
 
