@@ -31,16 +31,17 @@ Je me consacre désormais à :
 - Contenus optimisés SEO pour le secteur financier
 - Référencement de sites
 - Lead generation
-- Développements ad hoc (Python, API, publication automatiques, CMS, scans de résultats Google...)
+- Développements ad hoc (connexions API - CMS, publication automatiques, widgets, scans de résultats Google...)
 - Optimisation de présence sur les LLM
 - Mise en relation dans mon carnet d'adresses pour les compétences que je ne propose pas (Google Ads, rédaction généraliste premium, etc.)
 
 La philosophie : un travail opérationnel, efficace, orienté ROI. 
-Une stratégie, des actions, des résultats, plutôt que des réunions.
+Une stratégie, des actions, des résultats.
+Je ne suis pas une agence.
 
 ## Combien ça coûte
 
-TJM 700€ par jour.
+Selon projet, mais généralement TJM de 700€ HT. Possibilité d'indexation au résultat.
 
 ## Pour me contacter
 
