@@ -45,6 +45,20 @@ Grands comptes, PME, TPE...
 * Oui pour la rédaction premium - il faut connaître les idiomes, le jargon, etc. Le lecteur sent quand il y a une fausse note.
 * Non pour la rédaction généraliste orientée SEO.
 
+## Vous êtes mon client idéal si : 
+
+On peut être partenaires si vous avez un besoin :
+
+* d'automatisation
+* de techniques qui sortent de l'ordinaire
+* de généraiton en masse
+
+Mais pas si vous recherchez : 
+
+* un webmaster Wordpress
+* un rédacteur
+* un SEO "checklist / feuille de route" qui déroule sa presta standardisée
+
 ## Ma philosophie
 
 Un travail axé sur l'opérationnel, l'efficacité, le ROI de la prestation.
