@@ -6,7 +6,7 @@ Vous voulez dominer votre secteur, même face à des concurrents mieux staffés�
 
 Arrêtez les vieilles méthodes et rejoingnez-moi si vous voulez faire passer votre marketing internet au niveau supérieur.
 
-## La prestation
+## La prestation : approches non traditionnelles
 
 Depuis 2007, j’aide fintech et institutions financières à obtenir un trafic naturel qui convertit.
 
@@ -27,7 +27,7 @@ Ce qui n'a pas changé :
 
 - Mes valeurs d'honnêteté, d'efficacité, de no bullshit, de ROI client.
 
-## L'offre
+## L'offre : approches non traditionnelles
 
 Toujours du sur-mesure, mais généralement autour des axes suivants : 
 
@@ -48,9 +48,9 @@ Puis on travaille sur chacun des pourcentages les faisant progresser, chacun ave
 Structure et rédaction calibrées pour la récupération par ChatGPT, Perplexity, Gemini.
 Cas concret : contenus clients cités par ChatGPT sur des requêtes transactionnelles, volume de lead croissant jour après jour.
 
-Script quotidien qui scanne votre présence de marque sur les LLM. 
-Prise de contact avec les sources citées afin de corriger le narratif si erreurs.
-Création de médias de marque qui permettent de contrôler les mentions.
+- Script quotidien qui scanne votre présence de marque sur les LLM. 
+- Prise de contact avec les sources citées afin de corriger le narratif si erreurs.
+- Création de médias de marque qui permettent de contrôler les mentions.
 
 3. Restructuration technique et scripts sur-mesure
 
