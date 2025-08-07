@@ -1,12 +1,21 @@
-# Alambic, le réferencement version 2025
+# Assez des “consultants SEO” interchangeables.
 
+Vous cherchez un WordPress Guy ou un “rédacteur SEO” à la chaîne ? Passez votre chemin.
+Vous voulez dominer votre secteur, même face à des concurrents mieux staffés ? C’est ici que ça commence.
 Arrêtez les vieilles méthodes et rejoingnez-moi si vous voulez faire passer votre marketing internet au niveau supérieur.
+
+
+Vous voulez des résultats ? Travaillez avec quelqu’un qui fait exploser le ROI grâce à l’automatisation, la génération de contenus massifs et l’optimisation pour l’ère ChatGPT.
+
+Depuis 2007, j’ai permis à des fintechs et institutions financières de doubler leur acquisition sans bullshit ni poudre aux yeux :
+
+
 
 Mais d'abord, un peu d'histoire.
 
 ## La prestation
 
-Depuis 2007, j’aide banques, courtiers, assureurs, CGP et fintech à capter du trafic qui convertit grâce à une stratégie de contenu performante, et un SEO technique adapté aux usages modernes.
+Depuis 2007, j’aide fintech et institutions financières à obtenir un trafic naturel qui convertit.
 
 Avec l'AI certaines choses changent, d'autres nom.
 
@@ -16,8 +25,10 @@ Ce qui a changé :
 
 Ce qui a _aussi_ changé :
 
-- Le périmètre est plus restreint. Je me concentre désormais sur les actions à fort ROI : modifications structurelles, créations de process, automatisations, génération en masse.
-- Et bien sûr, l'optimisation pour les LLM (être cité par ChatGPT)
+- Process automatisés = 10x plus de pages indexées, 3x plus de leads qualifiés.
+- Adaptation LLM : vos contenus cités par ChatGPT et Perplexity, pas ceux des autres.
+- Actions chirurgicales : restructuration technique, crawls massifs, scripts Python custom.
+- Zéro “recette magique” : tout est prouvé, mesuré, documenté.
 
 Ce qui n'a pas changé : 
 
@@ -38,7 +49,36 @@ Ce qui n'a pas changé :
 
 * un webmaster Wordpress
 * un rédacteur SEO
-* un consultant SEO "checklist / feuille de route" qui déroule la même prestation standardisée depuis 2005 
+* un consultant SEO "checklist / feuille de route" qui déroule la même prestation standardisée depuis 2005
+
+## L'offre
+
+Toujours du sur-mesure, mais généralement autour des axes suivants : 
+
+1. Automatisation massive et industrialisation du SEO
+
+Déploiement de pages et de contenus uniques à grande échelle, structurés pour indexation rapide et durable.
+Exemple : 5 000 000 pages locales créées, génération de leads quotidiens.
+
+Loi des grands nombres : 
+- 1% de pages indexées = 50 000 pages dans l'index Google
+- 1% qui ont une trafic = 500 visites par jour
+- 1% qui ont de la conversion = 5 nouveaux leads.
+
+Puis on travaille sur chacun des pourcentages en essayant de le faire progresser.
+
+2. Optimisation pour les LLM et moteurs AI
+
+Structure et rédaction calibrées pour la récupération par ChatGPT, Perplexity, Gemini.
+Cas concret : contenus clients cités par ChatGPT sur des requêtes transactionnelles, volume de lead croissant jour après jour.
+
+Script quotidien qui scanne votre présence de marque sur les LLM. 
+Prise de contact avec les sources citées afin de corriger le narratif si erreurs.
+Création de médias de marque qui permettent de contrôler les mentions.
+
+3. Restructuration technique et scripts sur-mesure
+
+Exemple : enrichissement de 4000 pages par jour via l'API OpenAI, batch qui tourne chaque soir, publication chaque matin via API.
 
 ## A propos de moi, Nicolas Pérot. Je suis :
 
@@ -75,7 +115,7 @@ Mais aussi : non conformiste, hors des sentiers battus, imaginatif, créatif.
 
 **Je ne suis pas une agence web**. Mais 95% de mes clients ont été, par le passé, malmenés par une agence.
 
-Approche "no bullshit". Quand cela ne fonctionne pas, on en parle, on corrige, on arrête (du vrai *agile*).
+Approche "no bullshit". Quand cela ne fonctionne pas, on en parle, on cherche, on optimise ou on arrête (du vrai *agile*).
 
 ## Combien ça coûte
 
@@ -88,7 +128,7 @@ N'étant pas une agence, le volume de clients n'est pas et ne sera jamais ma pri
 
 C'est pourquoi j'ai maxi 2-3 clients en parallèle. Je ne cherche pas les clients. Je n'ai pas de funnel Linkedin. Pas de lead magnet. Pas de cold mail. Pas de mailing list.
 
-Je cherche juste un partenaire avec qui faire de beaux projets.
+Je cherche juste un partenaire avec qui partager de beaux projets qui décollent.
 
 ## Pour me contacter
 
