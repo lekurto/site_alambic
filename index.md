@@ -25,7 +25,8 @@ Ce qui n'a pas changé :
 
 ## A propos de moi, Nicolas Pérot. Je suis :
 
-Un financier né dans le web. J'expérimente sur mon réseau de site, je partage ce qui fonctionne avec mes clients.
+Je suis financier né dans le web. 
+J'expérimente les meilleures techniques SEO sur mon réseau de sites, je partage ce qui fonctionne avec mes clients.
 
 ### Côté web :
 - Premier site publié en 1996 (Geocities 💀)
@@ -39,26 +40,27 @@ Un financier né dans le web. J'expérimente sur mon réseau de site, je partage
 - Diplômé Dauphine – DESS 203
 - Passion pour la transmission et la pédagogie financière
 
-### Depuis 2007, j'ai quitté le monde corporate pour devenir indépendant
+### Depuis 2007, j'ai quitté le monde corporate pour passer à mon compte.
 
-Je me consacre à 100 % à :
+Après avoir troqué la cravate pour un clavier, mon quotidien tourne autour de :
 
 - mes clients webmarketing,
-- la formation en finance,
-- la gestion de mon réseau de sites.
+- la gestion de mon réseau de sites,
+- le développement d'outils en Python,
+- des actions de formation en entreprise.
 
 ## Pour qui ?
 
-### Vous êtes mon client idéal si : 
+### Etes-vous mon client idéal ? 
 
-Si vous avez un besoin :
+**Oui**, si vous avez un besoin :
 
 * d'automatisation
 * de techniques qui sortent de l'ordinaire
 * de généraiton en masse
 * d'optimiser votre présence sur les LLM (ChatGPT, Perplexity, Gemini...)
 
-Mais pas si vous recherchez : 
+**Non**, si vous recherchez : 
 
 * un webmaster Wordpress
 * un rédacteur SEO
@@ -66,7 +68,7 @@ Mais pas si vous recherchez :
 
 ## Ma philosophie
 
-Un travail axé sur l'opérationnel, l'efficacité, le ROI de la prestation.
+Un travail axé sur l'opérationnel, l'efficacité, le retour sur investissement de la prestation.
 
 Valeurs : honnête, transparent, pédagogique, bienveillant, gentil.
 Mais aussi : non conformiste, hors des sentiers battus, imaginatif, créatif.
@@ -77,7 +79,7 @@ Approche "no bullshit". Quand cela ne fonctionne pas, on en parle, on corrige, o
 
 ## Combien ça coûte
 
-Selon projet : 
+Selon le projet : 
 - au TJM (750€ HT)
 - ou au forfait
 - et/ou par indexation à la performance.
