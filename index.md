@@ -4,15 +4,6 @@ Vous cherchez un WordPress Guy ou un “rédacteur SEO” à la chaîne ? Pass
 Vous voulez dominer votre secteur, même face à des concurrents mieux staffés ? C’est ici que ça commence.
 Arrêtez les vieilles méthodes et rejoingnez-moi si vous voulez faire passer votre marketing internet au niveau supérieur.
 
-
-Vous voulez des résultats ? Travaillez avec quelqu’un qui fait exploser le ROI grâce à l’automatisation, la génération de contenus massifs et l’optimisation pour l’ère ChatGPT.
-
-Depuis 2007, j’ai permis à des fintechs et institutions financières de doubler leur acquisition sans bullshit ni poudre aux yeux :
-
-
-
-Mais d'abord, un peu d'histoire.
-
 ## La prestation
 
 Depuis 2007, j’aide fintech et institutions financières à obtenir un trafic naturel qui convertit.
@@ -33,23 +24,6 @@ Ce qui a _aussi_ changé :
 Ce qui n'a pas changé : 
 
 - Mes valeurs d'honnêteté, d'efficacité, de no bullshit, de ROI client.
-
-## Pour qui ?
-
-### Etes-vous mon client idéal ? 
-
-**Oui**, si vous avez un besoin :
-
-* d'automatisation
-* de techniques qui sortent de l'ordinaire
-* de généraiton en masse
-* d'optimiser votre présence sur les LLM (ChatGPT, Perplexity, Gemini...)
-
-**Non**, si vous recherchez : 
-
-* un webmaster Wordpress
-* un rédacteur SEO
-* un consultant SEO "checklist / feuille de route" qui déroule la même prestation standardisée depuis 2005
 
 ## L'offre
 
@@ -80,6 +54,47 @@ Création de médias de marque qui permettent de contrôler les mentions.
 
 Exemple : enrichissement de 4000 pages par jour via l'API OpenAI, batch qui tourne chaque soir, publication chaque matin via API.
 
+## Pour qui ?
+
+### Etes-vous mon client idéal ? 
+
+**Oui**, si vous avez un besoin :
+
+* d'automatisation
+* de techniques qui sortent de l'ordinaire
+* de généraiton en masse
+* d'optimiser votre présence sur les LLM (ChatGPT, Perplexity, Gemini...)
+
+**Non**, si vous recherchez : 
+
+* un webmaster Wordpress
+* un rédacteur SEO
+* un consultant SEO "checklist / feuille de route" qui déroule la même prestation standardisée depuis 2005
+
+## Ma philosophie
+
+Un travail axé sur l'opérationnel, l'efficacité, le retour sur investissement de la prestation.
+
+Valeurs : honnête, transparent, pédagogique, bienveillant, gentil.
+Mais aussi : non conformiste, hors des sentiers battus, imaginatif, créatif.
+
+**Je ne suis pas une agence web**. Mais 95% de mes clients ont été, par le passé, malmenés par une agence.
+
+Approche "no bullshit". Quand cela ne fonctionne pas, on en parle, on cherche, on optimise ou on arrête (du vrai *agile*).
+
+## Combien ça coûte
+
+Selon le projet : 
+- au TJM (750€ HT)
+- ou au forfait
+- et/ou par indexation à la performance.
+
+N'étant pas une agence, le volume de clients n'est pas et ne sera jamais ma priorité. J'ai déjà de quoi m'occuper avec mes sites et la formation :)
+
+C'est pourquoi j'ai maxi 2-3 clients en parallèle. Je ne cherche pas les clients. Je n'ai pas de funnel Linkedin. Pas de lead magnet. Pas de cold mail. Pas de mailing list.
+
+Je cherche juste un partenaire avec qui partager de beaux projets qui décollent. 
+
 ## A propos de moi, Nicolas Pérot. Je suis :
 
 Je suis financier né dans le web. 
@@ -106,29 +121,6 @@ Après avoir troqué la cravate pour un clavier, mon quotidien tourne autour de 
 - le développement d'outils en Python,
 - des actions de formation en entreprise.
 
-## Ma philosophie
-
-Un travail axé sur l'opérationnel, l'efficacité, le retour sur investissement de la prestation.
-
-Valeurs : honnête, transparent, pédagogique, bienveillant, gentil.
-Mais aussi : non conformiste, hors des sentiers battus, imaginatif, créatif.
-
-**Je ne suis pas une agence web**. Mais 95% de mes clients ont été, par le passé, malmenés par une agence.
-
-Approche "no bullshit". Quand cela ne fonctionne pas, on en parle, on cherche, on optimise ou on arrête (du vrai *agile*).
-
-## Combien ça coûte
-
-Selon le projet : 
-- au TJM (750€ HT)
-- ou au forfait
-- et/ou par indexation à la performance.
-
-N'étant pas une agence, le volume de clients n'est pas et ne sera jamais ma priorité. J'ai déjà de quoi m'occuper avec mes sites et la formation :)
-
-C'est pourquoi j'ai maxi 2-3 clients en parallèle. Je ne cherche pas les clients. Je n'ai pas de funnel Linkedin. Pas de lead magnet. Pas de cold mail. Pas de mailing list.
-
-Je cherche juste un partenaire avec qui partager de beaux projets qui décollent.
 
 ## Pour me contacter
 
