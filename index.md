@@ -54,7 +54,11 @@ Cas concret : contenus clients cités par ChatGPT sur des requêtes transactio
 
 3. Restructuration technique et scripts sur-mesure
 
-Exemple : enrichissement de 4000 pages par jour via l'API OpenAI, batch qui tourne chaque soir, publication chaque matin via API.
+Exemple : enrichissement quotidien de pages via l'API OpenAI. Batch qui tourne chaque nuit, publication automatique chaque matin via API.
+
+Coût en tokens négligeable, amélioration de la qualité du site et signaux +++ pour l'indexation et le positinnement.
+
+Valeur ajoutée : hybridation éditoriale + AI.
 
 ## Pour qui ?
 
