@@ -1,24 +1,26 @@
 # Assez des “consultants SEO” interchangeables.
 
 Vous cherchez un WordPress Guy ou un “rédacteur SEO” à la chaîne ? Passez votre chemin.
+
 Vous voulez dominer votre secteur, même face à des concurrents mieux staffés ? C’est ici que ça commence.
+
 Arrêtez les vieilles méthodes et rejoingnez-moi si vous voulez faire passer votre marketing internet au niveau supérieur.
 
 ## La prestation
 
 Depuis 2007, j’aide fintech et institutions financières à obtenir un trafic naturel qui convertit.
 
-Avec l'AI certaines choses changent, d'autres nom.
+Avec l'AI certaines choses changent, d'autres non.
 
 Ce qui a changé : 
 
-- Ma prestation est désormais disponible pour tous les secteurs d'activité.
+- Ma prestation est désormais disponible pour **tous les secteurs d'activité**, pas uniquement la finance.
 
 Ce qui a _aussi_ changé :
 
 - Process automatisés = 10x plus de pages indexées, 3x plus de leads qualifiés.
 - Adaptation LLM : vos contenus cités par ChatGPT et Perplexity, pas ceux des autres.
-- Actions chirurgicales : restructuration technique, crawls massifs, scripts Python custom.
+- Actions à grande échelle : restructuration technique, crawls massifs, scripts Python custom.
 - Zéro “recette magique” : tout est prouvé, mesuré, documenté.
 
 Ce qui n'a pas changé : 
