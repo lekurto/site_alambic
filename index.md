@@ -1,10 +1,28 @@
 # Alambic, le site de Nicolas Pérot, le référenceur des sites financiers
 
-Depuis 2007, j’aide banques, courtiers, assureurs, CGP et fintech à capter du trafic qualifié grâce à une stratégie de contenu performante, et un SEO technique adapté aux usages modernes.
+Rejoingnez-moi si vous voulez faire passer votre marketing internet au niveau supérieur.
 
+Mais d'abord, un peu d'histoire.
 
+## La prestation
 
-## Nicolas Pérot, c'est :
+Depuis 2007, j’aide banques, courtiers, assureurs, CGP et fintech à capter du trafic qui convertit grâce à une stratégie de contenu performante, et un SEO technique adapté aux usages modernes.
+
+Avec l'AI certaines choses changent, d'autres nom.
+
+Ce qui a changé : 
+
+- Ma prestation est désormais disponible pour tous les secteurs d'activité.
+
+Ce qui a aussi changé :
+
+- Le périmètre est plus restreint. Je me concentre désormais sur les actions à fort ROI : modifications structurelles, créations de process, automatisations, génération en masse.
+
+Ce qui n'a pas changé : 
+
+- Les valeurs d'honnêteté, d'efficacité, de no bullshit, de ROI client.
+
+## A propos de moi. Nicolas Pérot, c'est :
 
 Un financier né dans le web, qui partage son expérience avec ses clients pour les aider à atteindre leurs objectifs marketing web.
 
@@ -38,7 +56,7 @@ Je me consacre à 100 % à :
 
 ### Vous êtes mon client idéal si : 
 
-On peut être partenaires si vous avez un besoin :
+Si vous avez un besoin :
 
 * d'automatisation
 * de techniques qui sortent de l'ordinaire
