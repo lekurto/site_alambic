@@ -1,16 +1,15 @@
 # Alambic, le site de Nicolas Pérot, le référenceur des sites financiers
 
-Depuis 2007, j’aide banques, courtiers, assureurs et startups financières à capter du trafic qualifié grâce à une stratégie de contenu performante, et un SEO technique adapté aux usages modernes.
+Depuis 2007, j’aide banques, courtiers, assureurs, CGP et fintech à capter du trafic qualifié grâce à une stratégie de contenu performante, et un SEO technique adapté aux usages modernes.
+
+
 
 ## Nicolas Pérot, c'est :
 
 Un financier né dans le web, qui partage son expérience avec ses clients pour les aider à atteindre leurs objectifs marketing web.
 
 ### Côté web :
-- Premier site publié en 1996 (Geocities 💀)
-- Éditeur de sites à forte monétisation depuis 2008
-- Consultant en marketing digital et SEO depuis 2007
-- Spécialisation SEO éditorial + automatisation Python
+- Premier site publié en 1996 (Geocities 💀)- Éditeur de sites à forte monétisation depuis 2008- Consultant en marketing digital et SEO depuis 2007 - Spécialisation SEO éditorial + automatisation Python
 
 ### Côté finance :
 - 15 ans de finance de marché et de trésorerie
@@ -32,20 +31,12 @@ Je me consacre à 100 % à :
 - Contenus optimisés SEO (théma finance/immo uniquement)
 - Optimisation de présence sur les LLM
 - Lead generation
-- Appui à leur stratégie de marketing digital
-- Développements ad hoc (connexions API - CMS, publication automatiques, widgets, scans de résultats Google...)
+- Développements ad hoc (connexions API - CMS, publication automatiques, widgets, scraping...)
 - Mise en relation avec mon carnet d'adresses pour les compétences que je ne propose pas (Google Ads, rédaction généraliste premium, réseaux sociaux, etc.)
 
 ## Pour qui ?
 
-Grands comptes, PME, TPE...
-
-**Est-ce uniquement pour les clients financiers ?**
-
-* Oui pour la rédaction premium - il faut connaître les idiomes, le jargon, etc. Le lecteur sent quand il y a une fausse note.
-* Non pour la rédaction généraliste orientée SEO.
-
-## Vous êtes mon client idéal si : 
+### Vous êtes mon client idéal si : 
 
 On peut être partenaires si vous avez un besoin :
 
@@ -58,6 +49,11 @@ Mais pas si vous recherchez :
 * un webmaster Wordpress
 * un rédacteur
 * un SEO "checklist / feuille de route" qui déroule sa presta standardisée
+
+**Est-ce uniquement pour les clients financiers ?**
+
+* Oui pour la rédaction premium - il faut connaître les idiomes, le jargon, etc. Le lecteur sent quand il y a une fausse note.
+* Non pour la rédaction généraliste orientée SEO.
 
 ## Ma philosophie
 
