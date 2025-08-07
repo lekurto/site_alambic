@@ -43,7 +43,7 @@ Ce qui n'a pas changé :
 
 Toujours du sur-mesure, mais généralement autour des axes suivants : 
 
-1. Automatisation massive et industrialisation du SEO
+### Automatisation massive et industrialisation du SEO
 
 Déploiement de pages et de contenus uniques à grande échelle, structurés pour indexation rapide et durable.
 Exemple : 5 000 000 pages locales créées, génération de leads quotidiens.
@@ -55,16 +55,16 @@ Loi des grands nombres :
 
 Puis on travaille sur chacun des pourcentages les faisant progresser, chacun avec une méthode différente (indexation, liens, AB test...).
 
-2. Optimisation pour les LLM et moteurs AI
+### Optimisation pour les LLM et moteurs AI
 
 Structure et rédaction calibrées pour la récupération par ChatGPT, Perplexity, Gemini.
 Cas concret : contenus clients cités par ChatGPT sur des requêtes transactionnelles, volume de lead croissant jour après jour.
 
 - Script quotidien qui scanne votre présence de marque sur les LLM. 
 - Prise de contact avec les sources citées afin de corriger le narratif si erreurs.
-- Création de médias de marque qui permettent de contrôler les mentions.
+- Optimisation de la présence de la marque (RP, Wikipedia, etc.) permettent de légitimer la marque et contrôler les mentions.
 
-3. Restructuration technique et scripts sur-mesure
+### Restructuration technique et scripts sur-mesure
 
 Exemple : enrichissement quotidien de pages via l'API OpenAI. Batch qui tourne chaque nuit, publication automatique chaque matin via API.
 
