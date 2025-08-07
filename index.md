@@ -6,9 +6,21 @@ Vous voulez dominer votre secteur, même face à des concurrents mieux staffés�
 
 Arrêtez les vieilles méthodes et rejoingnez-moi si vous voulez faire passer votre marketing internet au niveau supérieur.
 
-## La prestation : approches non traditionnelles
+## La prestation tradi : 
 
 Depuis 2007, j’aide fintech et institutions financières à obtenir un trafic naturel qui convertit.
+
+Je conçois et mets en œuvre des stratégies SEO et éditoriales sur-mesure pour les secteurs exigeants (finance, assurance, gestion d’actifs, B2B complexe).
+
+Mon expertise : transformer des enjeux réglementaires et business en contenus qui rassurent, qui engagent, qui performent sur Google… et demain sur les IA.
+
+Mes clients : dirigeants, directions marketing, fintech, cabinets qui veulent un vrai partenaire opérationnel, pas un simple exécutant.
+
+Mon process : audit, stratégie, production haut de gamme, reporting simple et efficace.
+
+Je ne promets pas la lune, mais un travail solide, transparent, mesurable, avec des résultats tangibles sur le trafic et la qualité des leads.
+
+## La prestation moderne : 
 
 Avec l'AI certaines choses changent, d'autres non.
 
