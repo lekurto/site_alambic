@@ -23,6 +23,23 @@ Ce qui n'a pas changé :
 
 - Mes valeurs d'honnêteté, d'efficacité, de no bullshit, de ROI client.
 
+## Pour qui ?
+
+### Etes-vous mon client idéal ? 
+
+**Oui**, si vous avez un besoin :
+
+* d'automatisation
+* de techniques qui sortent de l'ordinaire
+* de généraiton en masse
+* d'optimiser votre présence sur les LLM (ChatGPT, Perplexity, Gemini...)
+
+**Non**, si vous recherchez : 
+
+* un webmaster Wordpress
+* un rédacteur SEO
+* un consultant SEO "checklist / feuille de route" qui déroule la même prestation standardisée depuis 2005 
+
 ## A propos de moi, Nicolas Pérot. Je suis :
 
 Je suis financier né dans le web. 
@@ -49,23 +66,6 @@ Après avoir troqué la cravate pour un clavier, mon quotidien tourne autour de 
 - le développement d'outils en Python,
 - des actions de formation en entreprise.
 
-## Pour qui ?
-
-### Etes-vous mon client idéal ? 
-
-**Oui**, si vous avez un besoin :
-
-* d'automatisation
-* de techniques qui sortent de l'ordinaire
-* de généraiton en masse
-* d'optimiser votre présence sur les LLM (ChatGPT, Perplexity, Gemini...)
-
-**Non**, si vous recherchez : 
-
-* un webmaster Wordpress
-* un rédacteur SEO
-* un consultant SEO "checklist / feuille de route" qui déroule la même prestation standardisée depuis 2005
-
 ## Ma philosophie
 
 Un travail axé sur l'opérationnel, l'efficacité, le retour sur investissement de la prestation.
@@ -84,7 +84,11 @@ Selon le projet :
 - ou au forfait
 - et/ou par indexation à la performance.
 
-N'étant pas une agence, le volume de clients n'est pas et ne sera jamais ma priorité. J'ai maxi 2-3 clients en parallèle.
+N'étant pas une agence, le volume de clients n'est pas et ne sera jamais ma priorité. J'ai déjà de quoi m'occuper avec mes sites et la formation :)
+
+C'est pourquoi j'ai maxi 2-3 clients en parallèle. Je ne cherche pas les clients. Je n'ai pas de funnel Linkedin. Pas de lead magnet. Pas de cold mail. Pas de mailing list.
+
+Je cherche juste un partenaire avec qui faire de beaux projets.
 
 ## Pour me contacter
 
