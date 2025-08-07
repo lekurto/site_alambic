@@ -36,10 +36,10 @@ Exemple : 5 000 000 pages locales créées, génération de leads quotidiens
 
 Loi des grands nombres : 
 - 1% de pages indexées = 50 000 pages dans l'index Google
-- 1% qui ont une trafic = 500 visites par jour
-- 1% qui ont de la conversion = 5 nouveaux leads.
+- 1% qui ont du trafic quotidien = 500 visites par jour
+- 1% de taux de conversion = 5 nouveaux leads par jour.
 
-Puis on travaille sur chacun des pourcentages en essayant de le faire progresser.
+Puis on travaille sur chacun des pourcentages les faisant progresser, chacun avec une méthode différente (indexation, liens, AB test...).
 
 2. Optimisation pour les LLM et moteurs AI
 
